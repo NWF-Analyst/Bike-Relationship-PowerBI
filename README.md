@@ -4,8 +4,6 @@ This project showcases a full suite of Power BI challenges based on the [Bike St
 
 > All dashboards were built without SQL, using Power Query, Data Modeling, Calendar Tables, and DAX Measures inside Power BI.
 
----
-
 Core Concepts Used
 
 ✅ Data Modeling
@@ -47,14 +45,12 @@ Each challenge was approached using this structure:
 ---
 
  ✅ Completed Challenges
-
-    Challenge Title                            Description                                                                                                                          
- -:  -----------------------------------------  ------------------------------------------------------------------------------------------------------------------------------------ 
+  No.            Challenge                                                                            Discription
   1  Dynamic Product Sales Dashboard        Matrix-based performance report for products across categories. Includes total revenue, quantity sold, and drillthrough by product.  
   2  Regional Performance Map               Map visuals for customer revenue by region. Scatter plot shows order count vs revenue per state. Includes drillthrough and tooltips. 
   3  Customer Lifetime Value Tracker        Tracks retention, frequency, first purchase, and top spender logic. Displays customer behavior and LTV over time.                    
   4  Procurement & Inventory Insight Board  Compares restock costs, flags fast/slow-moving inventory, and shows quantity sold by store. Matrix drillthrough included.            
-  5  Monthly Sales Trend		    Time series of monthly revenue with slicers for year/quarter. Anomaly detection using the Analytics pane.            
+  5  Monthly Sales Trend		                  Time series of monthly revenue with slicers for year/quarter. Anomaly detection using the Analytics pane.            
 
 Outcome:
 By the end of this project, I built a complete end-to-end BI reporting solution in Power BI from raw CSVs. All visuals were created using clean, well-modeled data and reusable DAX logic—no external SQL or data sources were needed.
