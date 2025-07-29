@@ -56,7 +56,7 @@ Each challenge was approached using this structure:
   4  Procurement & Inventory Insight Board  Compares restock costs, flags fast/slow-moving inventory, and shows quantity sold by store. Matrix drillthrough included.            
   5  Monthly Sales Trend		    Time series of monthly revenue with slicers for year/quarter. Anomaly detection using the Analytics pane.            
 
-Outcome
+Outcome:
 By the end of this project, I built a complete end-to-end BI reporting solution in Power BI from raw CSVs. All visuals were created using clean, well-modeled data and reusable DAX logic—no external SQL or data sources were needed.
 
 Disclaimer:
